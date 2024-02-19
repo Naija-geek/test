@@ -1,8 +1,6 @@
 // Declare an array with the name SHOPPING LIST and size 10 and assign multiples of 3
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main() {
     int i;
     int SHOPPING_LIST[10] = {0};
