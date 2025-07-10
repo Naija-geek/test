@@ -1,7 +1,7 @@
 #include <stdio.h>;
 
 int main(){
-    char fname[25];
+    char fname[26];
     // char sname[25];
 
     printf("What is your first name?");
